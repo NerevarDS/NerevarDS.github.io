@@ -14,5 +14,6 @@ Supply Chain Analytics Manager @ CRC Evans
 
 ### Projects
 Link to project [project](https://github.com/AXJAS/knapsack_problem/)
+
 ![Histogram](/images/histogram-example-2.png)
 
