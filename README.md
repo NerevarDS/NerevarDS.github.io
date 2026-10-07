@@ -4,6 +4,7 @@
 
 ### Education
 Supply Chain Management Level 3
+
 Studying BSc Data Science, L6 Apprenticeship
 
 ### Work Experience
@@ -13,5 +14,6 @@ Supply Chain Analytics Manager @ CRC Evans
 
 ### Projects
 [Project 1] Link to project https://github.com/AXJAS/knapsack_problem/
+
 ![Histogram](/images/histogram-example-2.png)
 
