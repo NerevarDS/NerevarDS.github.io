@@ -1,9 +1,7 @@
-# NerevarDS.github.io
-
-## Data Scientist
+# Data Scientist
 
 ### Education
-Supply Chain Management Level 3
+Supply Chain & Operations Management, Level 3
 
 Studying BSc Data Science, L6 Apprenticeship
 
